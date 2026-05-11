@@ -1,2 +1,4 @@
 obj/
 *.csproj
+bin/
+numbers.txt
